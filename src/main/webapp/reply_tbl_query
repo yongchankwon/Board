@@ -1,0 +1,8 @@
+create table reply_tbl
+(
+	r_num int primary key auto_increment,
+	b_num int null,
+	writer varchar(45) null,
+	comment text,
+	reg_date date
+);
