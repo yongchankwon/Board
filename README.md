@@ -5,29 +5,32 @@
 
 ## Contents
 - Introduction and features
-  - Introduction
-  - features
+  - 프로젝트 소개
+  - 프로젝트 기능
+  - 개발 환경
 
 - structure and design
-  - structure
-  - design
+  - 구조
+  - 설계
 
 - Review
 
 ## Introduction and features
-**1. project Introduction**
+**1. 프로젝트 소개**
 
-**2. project features**
+**2. 프로젝트 기능**
 
 - **게시판 -** CRUD 기능, 조회수, 페이징 처리
 - **사용자 -** Security 회원가입 및 로그인, 회원정보 수정
 - **댓글 -** CRUD 기능
 
-**3. development environment**
+**3. 개발 환경**
 
 - Java 
 - MySQL 8.0
 
 ## structure and design
+- **구조 -**
+- **설계 -**
 
 ## Review
