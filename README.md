@@ -30,7 +30,7 @@
 - MySQL 8.0
 
 ## structure and design
-- **구조 -**
+- **1.패키지 구조**
 
 <details>
   
