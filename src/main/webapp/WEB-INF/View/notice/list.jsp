@@ -17,10 +17,10 @@
 </div>
 
 <div class="page-contents">
-<h2>공지사항</h2>
+<h2>공지사항입니다.</h2>
 
 <!-- ROLE_ADMIN만 허용되는 URL -->
-<a href="/Notice/post.do">글쓰기</a>
+<a href="/Notice/post.do" class='btn btn-primary'>글쓰기</a>
 
 </div>
 

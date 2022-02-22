@@ -4,7 +4,7 @@
      <div id='header' class='row'>
             <div id=header-left class='col-1'> 
                 <!-- 오프캔버스(Left 적용) -->
-                <a type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasleft" aria-controls="offcanvasRight">Menu</a>
+                <a type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasleft" aria-controls="offcanvasRight" class='btn btn-primary'>Menu</a>
 
                 <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasleft" aria-labelledby="offcanvasRightLabel">
                   <div class="offcanvas-header">

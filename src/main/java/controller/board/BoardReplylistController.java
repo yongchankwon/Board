@@ -35,7 +35,7 @@ public class BoardReplylistController implements Controller{
 				out.print("<div class=\"row m-4\">");
 				out.print("<div class=\"col-1\"  ><img style=\"width:60px;height:60px;border-radius:25%;\" src=\"/resources/img/reply.png\"></div>");
 				out.print("<div class=\"col-11\">");
-				out.print("<div style=\"font-weight:500;font-size:20px;margin-bottom:5px;\">"+list.get(i).getWriter()+"</div>");
+				out.print("<div style=\"font-weight:500;font-size:20px;margin-bottom:5px;\">"+list.get(i).getEmail()+"</div>");
 				out.print("<div>"+list.get(i).getComment()+"</div>");
 				out.print("</div>");
 				out.print("</div>");

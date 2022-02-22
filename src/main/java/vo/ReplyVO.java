@@ -3,20 +3,20 @@ package vo;
 public class ReplyVO {
 	private int rnum;
 	private int bnum;
-	private String writer;
+	private String email;
 	private String comment;
 	private String regdate;
 	
-	public ReplyVO(int bnum, String writer, String comment) {
+	public ReplyVO(int bnum, String email, String comment) {
 		super();
 		this.bnum = bnum;
-		this.writer = writer;
+		this.email = email;
 		this.comment = comment;
 	}
-	public ReplyVO(int bnum, String writer, String comment,String regdate) {
+	public ReplyVO(int bnum, String email, String comment,String regdate) {
 		super();
 		this.bnum = bnum;
-		this.writer = writer;
+		this.email = email;
 		this.comment = comment;
 		this.regdate=regdate;
 	}
@@ -30,8 +30,8 @@ public class ReplyVO {
 		return bnum;
 	}
 
-	public String getWriter() {
-		return writer;
+	public String getEmail() {
+		return email;
 	}
 
 	public String getComment() {
