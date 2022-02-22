@@ -29,6 +29,8 @@
 
 - Java 
 - MySQL 8.0
+- BootStrap 5
+- JQuery
 
 ## structure and design
 **1. 패키지 구조**
