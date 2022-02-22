@@ -145,7 +145,7 @@
 	
 	<div class="row">
 		<div class="col-10">
-				<textarea row="3" class="form-control" id="comment"></textarea>
+			<textarea row="3" class="form-control" id="comment"></textarea>
 		</div>
 		<div class="col-2" >
 			<button class="btn btn-secondary w-100 h-100" onclick="postreply()">SEND</button>
