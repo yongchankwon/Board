@@ -10,9 +10,10 @@
   - 개발 환경
 
 - structure and design
-  - 구조
-  - 설계
-
+  - 패키지 구조
+  - DB 설계
+  - API 설계
+ 
 - Review
 
 ## Introduction and features
