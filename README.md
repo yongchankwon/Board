@@ -157,12 +157,10 @@
 **2. DB 설계**
 
 ![shopdb-diagram](https://user-images.githubusercontent.com/94505665/155258039-b2f7b754-3c4b-4f3c-8d67-2c94f586d073.png)
-<br>
 ![member_tbl](https://user-images.githubusercontent.com/94505665/155098027-ac27acc7-735e-449e-a189-0c548600619f.png)
-<br>
 ![board_tbl](https://user-images.githubusercontent.com/94505665/155098120-ceda41e5-07e4-489d-89da-1770086ef683.png)
-<br>
 ![reply_tbl](https://user-images.githubusercontent.com/94505665/155258170-ae1289d7-ce19-49f6-9929-c52133c8e87a.png)
+
 <br>
 
 
