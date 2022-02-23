@@ -31,7 +31,7 @@
 - **데이터 베이스 :** MySQL Community Server 8.0.21
 - **DBMS :** MySQL Workbench 8.0
 - **JDK 버전 :** openjdk 8(openjdk version 1.8.0_232)
-- **Spring Boot 버전 :** Spring Boot 2.3.4
+- **Spring Boot 버전 :** Bootstrap v5.0
 - **개발도구 :** Eclipse 2021-12 (4.22.0)
 - **개발 운영체제 :** Window 10
 
