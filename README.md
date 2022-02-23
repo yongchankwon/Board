@@ -27,13 +27,13 @@
 
 **3. 개발 환경**
 
-- 언어 : Java
-- 데이터 베이스 : MySQL Community Server 8.0.21
-- DBMS : MySQL Workbench 8.0
-- JDK 버전 : openjdk 8(openjdk version 1.8.0_232)
-- Spring Boot 버전 : Spring Boot 2.3.4
-- 개발도구 : Eclipse
-- 개발 운영체제 : Window 10
+- **언어 :** Java
+- **데이터 베이스 :** MySQL Community Server 8.0.21
+- **DBMS :** MySQL Workbench 8.0
+- **JDK 버전 :** openjdk 8(openjdk version 1.8.0_232)
+- **Spring Boot 버전 :** Spring Boot 2.3.4
+- **개발도구 :** Eclipse
+- **개발 운영체제 :** Window 10
 
 
 ## structure and design
