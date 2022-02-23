@@ -159,7 +159,7 @@
 ![shopdb-diagram](https://user-images.githubusercontent.com/94505665/155258039-b2f7b754-3c4b-4f3c-8d67-2c94f586d073.png)
 ![member_tbl](https://user-images.githubusercontent.com/94505665/155098027-ac27acc7-735e-449e-a189-0c548600619f.png)
 ![board_tbl](https://user-images.githubusercontent.com/94505665/155098120-ceda41e5-07e4-489d-89da-1770086ef683.png)
-![reply_tbl](https://user-images.githubusercontent.com/94505665/155258086-450ab648-6da4-4f3e-8330-5bd4a1f09d54.png)
+![reply_tbl](https://user-images.githubusercontent.com/94505665/155258170-ae1289d7-ce19-49f6-9929-c52133c8e87a.png)
 
 
 **3. API 설계**
