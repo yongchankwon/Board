@@ -161,8 +161,6 @@
 ![board_tbl](https://user-images.githubusercontent.com/94505665/155098120-ceda41e5-07e4-489d-89da-1770086ef683.png)
 ![reply_tbl](https://user-images.githubusercontent.com/94505665/155098200-8ca8dfeb-0355-4bb8-821e-7f99178c7b18.png)
 
-</br>
-
 
 **3. API 설계**
 
