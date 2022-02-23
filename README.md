@@ -21,16 +21,20 @@
 
 **2. 프로젝트 기능**
 
-- **게시판 -** CRUD 기능, 조회수, 페이징 처리
-- **사용자 -** Security 회원가입 및 로그인, 회원정보 수정
-- **댓글 -** CRUD 기능
+■ **게시판 -** CRUD 기능, 조회수, 페이징 처리
+■ **사용자 -** Security 회원가입 및 로그인, 회원정보 수정
+■ **댓글 -** CRUD 기능
 
 **3. 개발 환경**
 
-- Java 
-- MySQL 8.0
-- BootStrap 5
-- JQuery
+■ 언어 : Java
+■ 데이터 베이스 : MySQL Community Server 8.0.21
+■ DBMS : MySQL Workbench 8.0
+■ JDK 버전 : openjdk 8(openjdk version 1.8.0_232)
+■ Spring Boot 버전 : Spring Boot 2.3.4
+■ 개발도구 : Eclipse 2019-12 (4.14.0)
+■ 개발 운영체제 : Window 10
+
 
 ## structure and design
 **1. 패키지 구조**
