@@ -369,7 +369,7 @@ public class BoardDAO {
 			
 			conn=ds.getConnection();
 			pstmt=conn.prepareStatement("insert into reply_tbl values(null,?,?,?,now())");
-			pstmt.setInt(1, vo.getBnum());
+			pstmt.setInt(1, vo.getNum());
 			pstmt.setString(2, vo.getEmail());
 			pstmt.setString(3, vo.getComment());
 			pstmt.executeUpdate();
@@ -403,7 +403,7 @@ public class BoardDAO {
 				while(rs.next())
 				{
 					vo=new ReplyVO(
-							rs.getInt("b_num"),
+							rs.getInt("num"),
 							rs.getString("email"),
 							rs.getString("comment"),
 							rs.getString("reg_date")

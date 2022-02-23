@@ -36,11 +36,28 @@
     <label for="inputZip" class="form-label">우편주소</label>
     <input type="text" class="form-control" id="inputZip" name="zipcode">
   </div> -->
-<input type="text" id="inputZip" size=10 placeholder="우편번호" name="zipcode">
-<input type="button" onclick="addr()" value="우편번호 찾기"><br>
-<input type="text" id="inputAddress" size=70 placeholder="주소" name="addr1"><br>
-<input type="text" id="inputAddress2" size=35 placeholder="상세주소" name="addr2">
-<input type="text" id="extraAddress" size=35 placeholder="참고항목">
+  
+ <div class="row mb-2">
+ 	<div class="col-5">
+ 		<input type="text" id="inputZip" placeholder="우편번호" name="zipcode" class="form-control">
+ 	</div>
+ 	<div class="col-2">
+ 		<input type="button" onclick="addr()" value="우편번호 찾기" class="btn btn-secondary">
+ 	</div>
+</div>
+<div class="row mb-2">
+ 	<div class="col-8"> 
+		<input type="text" id="inputAddress" placeholder="주소" name="addr1" class="form-control">
+	</div>
+</div>
+<div class="row mb-2">
+	<div class="col-4"> 
+		<input type="text" id="inputAddress2" placeholder="상세주소" name="addr2" class="form-control">
+	</div>
+	<div class="col-4"> 
+		<input type="text" id="extraAddress" placeholder="참고항목" class="form-control">
+	</div>
+</div>
 
 <script>
     function addr() {
@@ -91,8 +108,6 @@
         }).open();
     }
 </script>
-  <div class="col-12">
-  </div>
   <div class="col-12">
     <button type="submit" class="btn btn-primary">회원가입</button>
   </div>

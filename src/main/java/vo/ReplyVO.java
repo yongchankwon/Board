@@ -2,20 +2,20 @@ package vo;
 
 public class ReplyVO {
 	private int rnum;
-	private int bnum;
+	private int num;
 	private String email;
 	private String comment;
 	private String regdate;
 	
-	public ReplyVO(int bnum, String email, String comment) {
+	public ReplyVO(int num, String email, String comment) {
 		super();
-		this.bnum = bnum;
+		this.num = num;
 		this.email = email;
 		this.comment = comment;
 	}
-	public ReplyVO(int bnum, String email, String comment,String regdate) {
+	public ReplyVO(int num, String email, String comment,String regdate) {
 		super();
-		this.bnum = bnum;
+		this.num = num;
 		this.email = email;
 		this.comment = comment;
 		this.regdate=regdate;
@@ -26,8 +26,8 @@ public class ReplyVO {
 		return rnum;
 	}
 
-	public int getBnum() {
-		return bnum;
+	public int getNum() {
+		return num;
 	}
 
 	public String getEmail() {
