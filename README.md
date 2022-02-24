@@ -12,7 +12,6 @@
 - structure and design
   - 패키지 구조
   - DB 설계
-  - API 설계
  
 - Review
 
@@ -160,11 +159,5 @@
 ![reply_tbl](https://user-images.githubusercontent.com/94505665/155258170-ae1289d7-ce19-49f6-9929-c52133c8e87a.png)
 
 <br>
-
-
-**3. API 설계**
-
-
-
 
 ## Review
