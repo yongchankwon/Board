@@ -142,11 +142,8 @@
  ┃ ┃ ┃ ┃ ┣ 📜MemberJoinResult.jsp
  ┃ ┃ ┃ ┃ ┣ 📜SearchResult.jsp
  ┃ ┃ ┃ ┃ ┗ 📜usermain.jsp
- ┃ ┃ ┣ 📜board_tbl_query
  ┃ ┃ ┣ 📜Login.jsp
- ┃ ┃ ┣ 📜mem_Tbl_query
  ┃ ┃ ┣ 📜MemberJoin.jsp
- ┃ ┃ ┣ 📜reply_tbl_query
  ┃ ┃ ┣ 📜update
  ┃ ┃ ┗ 📜updatereq
  ```
